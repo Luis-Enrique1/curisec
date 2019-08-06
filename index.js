@@ -1,11 +1,5 @@
 window.sr = ScrollReveal();
 
-sr.reveal('.sombra', {
-    duration: 2000,
-    origin: 'bottom',
-    distance: '100px'
-});
-
 sr.reveal('.scroll', {
     duration: 2000,
     origin: 'bottom',
